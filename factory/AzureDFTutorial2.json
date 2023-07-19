@@ -1,0 +1,9 @@
+{
+	"name": "AzureDFTutorial2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "715552ed-27f6-46b2-9846-29fa27137a16",
+		"tenantId": "38f9dbed-8463-439e-99f5-82728d30bb43"
+	}
+}
